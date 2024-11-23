@@ -1,3 +1,4 @@
+name,goodness,priority,Dead
 albus potter,Neutral,1,Undead
 alecto carrow,Bad,1,Undead
 amos diggory,Neutral,1,Undead
@@ -170,4 +171,3 @@ whomping willow,Trash,0,Trash
 witch,Trash,0,Trash
 wizard,Trash,0,Trash
 woman,Trash,0,Trash
-name,goodness,priority,Dead
