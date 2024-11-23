@@ -5,4 +5,4 @@
 
 Актуальный процесс работы отражён в [гугл.коллабе](https://colab.research.google.com/drive/1VY2MxfhpexdwabRNcvKpBRAwvxSj9nwy?usp=sharing).
 
-Размеченные данные, на которых мы будем всё обучать: [гугл.диск](https://drive.google.com/file/d/1yWCcHUbN29fnM6TETJ_HepKImXvV7BNp/view?usp=drive_link)
+Токенизированные данные, на которых мы будем всё обучать: [гугл.диск](https://drive.google.com/file/d/1yWCcHUbN29fnM6TETJ_HepKImXvV7BNp/view?usp=drive_link)
