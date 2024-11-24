@@ -14,3 +14,6 @@
 Векторизованный датасет Аватара: [гугл.диск](https://drive.google.com/file/d/1bYaUvXlaPPqbDywUtIDNBi-692CYnYvN/view?usp=sharing)
 
 Векторизованный датасет Звёздные войны [гугл.диск](https://drive.google.com/file/d/1Z7INsd1kqr7a9ijE93zojQMtVHe_stB6/view?usp=sharing)
+
+
+[Новый векторизованный файл](https://drive.google.com/file/d/1QRIpF7kamD3hOPp-MW_AbSDA-CSB_97C/view?usp=sharing)
