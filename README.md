@@ -12,3 +12,5 @@
 Сбалансированная версия предыдущего датасета (не больше ста реплик одного персонажа), на них будем обучать: [гугл.диск](https://drive.google.com/file/d/1I7hDij_wpbxSU4jAOe0FLvAlmgpKpVR2/view?usp=sharing)
 
 Векторизованный датасет Аватара: [гугл.диск](https://drive.google.com/file/d/1EYb-U-8L3vkuqBGczKSnJRlKagwBY-qD/view?usp=sharing)
+
+Векторизованный датасет Звёздные войны [гугл.диск](https://drive.google.com/file/d/1Z7INsd1kqr7a9ijE93zojQMtVHe_stB6/view?usp=sharing)
