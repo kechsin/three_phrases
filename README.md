@@ -5,8 +5,8 @@
 
 Актуальный процесс работы отражён в [гугл.коллабе](https://colab.research.google.com/drive/1VY2MxfhpexdwabRNcvKpBRAwvxSj9nwy?usp=sharing).
 
-Векторизированные данные, на которых мы будем всё обучать: [гугл.диск](https://drive.google.com/file/d/1yWCcHUbN29fnM6TETJ_HepKImXvV7BNp/view?usp=drive_link)
+Векторизированные данные, на которых мы будем всё обучать: [гугл.диск](https://drive.google.com/file/d/1Pkcb2_RevrdNX3YmEOA6fLGVuyDkul9h/view?usp=sharing)
 
-Сбалансированная версия предыдущего датасета (не больше ста реплик одного персонажа): [гугл.диск](https://drive.google.com/file/d/1KHTHI1BcFZAbB3euxKt827KxfUjnuKS3/view?usp=sharing)
+Сбалансированная версия предыдущего датасета (не больше ста реплик одного персонажа): [гугл.диск](https://drive.google.com/file/d/1I7hDij_wpbxSU4jAOe0FLvAlmgpKpVR2/view?usp=sharing)
 
 Векторизованный датасет Аватара: [гугл.диск](https://drive.google.com/file/d/1EYb-U-8L3vkuqBGczKSnJRlKagwBY-qD/view?usp=sharing)
