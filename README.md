@@ -3,6 +3,8 @@
 
 **Авторы**: Лепихина Евгения, Федорищева Екатерина, Шляхтина Людмила, Севостьянова Марина, Бурлак Мария.
 
+[Преза](https://docs.google.com/presentation/d/1WnL0FhiG9Xq4asZ3yV6OWqLqZM4NgGN9/edit?usp=sharing&ouid=111633022633955369603&rtpof=true&sd=true)
+
 Актуальный процесс работы отражён в [гугл.коллабе](https://colab.research.google.com/drive/1VY2MxfhpexdwabRNcvKpBRAwvxSj9nwy?usp=sharing).
 
 Векторизированные данные: [гугл.диск](https://drive.google.com/file/d/1Pkcb2_RevrdNX3YmEOA6fLGVuyDkul9h/view?usp=sharing)
