@@ -16,4 +16,4 @@
 Векторизованный датасет Звёздные войны [гугл.диск](https://drive.google.com/file/d/1Z7INsd1kqr7a9ijE93zojQMtVHe_stB6/view?usp=sharing)
 
 
-[Новый векторизованный файл](https://drive.google.com/file/d/1QRIpF7kamD3hOPp-MW_AbSDA-CSB_97C/view?usp=sharing)
+[Новый векторизованный файл](https://drive.google.com/file/d/1WHGmI5wXjd2W-Ijqp95Ni8oco1XkOze2/view?usp=sharing)
