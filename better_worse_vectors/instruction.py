@@ -44,5 +44,7 @@ with open('pr_dict.json', 'r') as json_file2:
 
 
 # и вот этим кодом можно удобно пробежаться по датасету и сделать новые векторизованные столбцы:
+new_df = pd.read_pickle("нужныйфайл.pkl")
 new_df['gb_vector'] = new_df.apply(lambda x: better_worse_vectorise(x.text, gb_dict, 15), axis=1)
 new_df['pr_vector'] = new_df.apply(lambda x: better_worse_vectorise(x.text, pr_dict, 15), axis=1)
+new_df.to_pickle("обновлённыйфайл.pkl")
